@@ -24,6 +24,7 @@ My go-to stack for almost every project I have worked on and the tools I really 
 - MongoDB, Redis and PostgreSQL
 - Prisma
 - NGINX
+- Directus, Strapi and WordPress for CMS
 
 ## Get in touch
 - Email me: [christian@chrisgvdev.com](mailto:christian@chrisgvdev.com)
