@@ -1,4 +1,4 @@
-![Christian Gil Cover](https://chrisgvdev.com/wp-content/uploads/2022/04/cgv-web-github-cover.jpg "Web design and development")
+![Christian Gil Cover](https://cms.cgvweb.com/assets/be5b7109-83c5-43a6-8678-0c02bb17f9b9 "Web design and development")
 
 ## About me
 Hi! My name is Christian Gil and I’m a full-stack web developer and designer based in Jalisco, México. 🇲🇽
