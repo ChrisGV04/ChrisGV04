@@ -3,7 +3,7 @@
 ## About me
 Hi! My name is Christian Gil and I’m a full-stack web developer and designer based in Jalisco, México. 🇲🇽
 
-I have been passionate about software since my early teens and have been actively learning and working as a full-time freelance software developer since 2018, with over 15 projects (as of 2021) ranging from basic landing pages and dynamic websites, to full-featured ecommerce sites, to full-stack web apps and SaaS. 💻
+I have been passionate about software since my early teens and have been actively learning and working as a full-time freelance software developer since 2018, with over 20 completed projects (as of 2022) ranging from basic landing pages and dynamic websites, to full-featured ecommerce sites, to full-stack web apps and SaaS. 💻
 
 I love creating software and solving problems that can improve peoples lives, make tasks more efficient, increase productivity and generally contribute to making the world a happier place using tech. 🤓
 
