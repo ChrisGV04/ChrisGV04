@@ -11,10 +11,10 @@ I love creating software and solving problems that can improve peoples lives, ma
 My go-to stack for almost every project I have worked on and the tools I really enjoy using:
 
 ### Front-end
-- Vue.js and Nuxt.js
+- Vue and Nuxt 3
 - Typescript
 - TailwindCSS
-- Vite
+- HeadlessUI
 - GSAP
 
 ### Back-end
@@ -25,7 +25,7 @@ My go-to stack for almost every project I have worked on and the tools I really 
 - Prisma
 - NGINX
 - PayloadCMS
-- WordPress as Headless CMS
+- Zod
 
 ## Get in touch
 - Email me: [christian@chrisgvdev.com](mailto:christian@chrisgvdev.com)
