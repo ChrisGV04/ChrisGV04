@@ -29,4 +29,4 @@ My go-to stack for almost every project I have worked on and the tools I really 
 
 ## Get in touch
 - Email me: [christian@chrisgvdev.com](mailto:christian@chrisgvdev.com)
-- You can find more at [my personal website](https://cgvweb.com)
+- You can find more at [my personal website](https://cgvweb.com/en)
